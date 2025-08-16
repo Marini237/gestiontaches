@@ -35,5 +35,5 @@ Permet de :
 ### 📦 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/ton-utilisateur/nom-du-repo.git
+git clone https://github.com/Marini237/gestiontaches.git
 cd nom-du-repo
